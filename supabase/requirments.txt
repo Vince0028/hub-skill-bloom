@@ -1,5 +1,0 @@
-# requirements.txt
-Flask # or Django, etc.
-psycopg2-binary # for PostgreSQL connection, if using it directly
-supabase-py # if you're using the Supabase Python client
-gunicorn
